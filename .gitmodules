@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/OscarGE11/Task_list_backend.git
+[submodule "frontendNuxt"]
+	path = frontendNuxt
+	url = https://github.com/OscarGE11/Task_list_frontend.git
